@@ -1,4 +1,5 @@
-﻿double annualSalary;
+﻿//Reviewed and tested by Vito Visagie
+double annualSalary;
 double taxAmount;
 double netIncome;
 string taxBracket;
