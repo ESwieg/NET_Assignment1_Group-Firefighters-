@@ -1,4 +1,4 @@
-﻿// Written by Hendrina Swiegers & Reviewed by Vito Visagie
+﻿// Reviewed and tested by Vito Visagie
 // Assignment 2 - Advanced Programming in .NET
 // Group: Firefighters | Due: 26 May 2026
 
